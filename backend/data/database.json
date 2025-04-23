@@ -1,0 +1,667 @@
+{
+    "users": [
+        {
+            "username": "Arnav",
+            "password": "$2b$12$mtgnw0yWc7TkAoiYYufNGeHNx0aMDrTqCc13y/wYETC79hinsSPMy"
+        },
+        {
+            "username": "Arnav1",
+            "password": "$2b$12$LJbByufBYGi/BxBaCoPvg.0Ojm21SJ.Y7LLE80gbghbouPJHCohry"
+        },
+        {
+            "username": "hari",
+            "password": "$2b$12$Uq8t2UT4HK.3.UwBN6pKpeLHeFWAhQBFwiG0P7Tmj.M2Ht8DmfhDW"
+        },
+        {
+            "username": "deepak",
+            "password": "$2b$12$zJpJAX/iWjf1b810Ib2d8ewXM5.F71q0bqrRlo3BIqa4Pdx54HH8q"
+        },
+        {
+            "username": "demo",
+            "password": "$2b$12$Y7yc/ROnRC1bybBdzjiCHewk1OhWe0hfA2jD1cZHh097KB7yy1tS."
+        },
+        {
+            "username": "Arrnv",
+            "password": "$2b$12$vBjwe1qLPiDgarvHFIkVw./buETZLvtleJzYl9erSc8eSlLaPurcy"
+        }
+    ],
+    "predictions": [
+        {
+            "location": "bocas",
+            "date": "2003-04-22",
+            "predicted_site": "stri",
+            "predicted_habitat": "dock",
+            "predicted_number_of_fish_shoals": 2.77
+        },
+        {
+            "location": "sms",
+            "date": "2003-04-22",
+            "predicted_site": "turner cove",
+            "predicted_habitat": "dock",
+            "predicted_number_of_fish_shoals": 2.77
+        },
+        {
+            "location": "sms",
+            "date": "2003-10-22",
+            "predicted_site": "sms",
+            "predicted_habitat": "seagrass",
+            "predicted_number_of_fish_shoals": 6.57
+        },
+        {
+            "location": "sms",
+            "date": "2025-10-22",
+            "predicted_site": "sms",
+            "predicted_habitat": "seagrass",
+            "predicted_number_of_fish_shoals": 6.57
+        },
+        {
+            "location": "sms",
+            "date": "2025-03-22",
+            "predicted_site": "stri",
+            "predicted_habitat": "dock",
+            "predicted_number_of_fish_shoals": 2.77
+        },
+        {
+            "location": "sms",
+            "date": "2025-09-22",
+            "predicted_site": "turner cove",
+            "predicted_habitat": "mangrove",
+            "predicted_number_of_fish_shoals": 3.38
+        },
+        {
+            "location": "bocas",
+            "date": "2025-03-18",
+            "predicted_site": "stri",
+            "predicted_habitat": "dock",
+            "predicted_number_of_fish_shoals": 2.77
+        },
+        {
+            "location": "sms",
+            "date": "2025-03-18",
+            "predicted_site": "stri",
+            "predicted_habitat": "dock",
+            "predicted_number_of_fish_shoals": 2.77
+        },
+        {
+            "location": "sms",
+            "date": "2003-12-28",
+            "predicted_site": "sms",
+            "predicted_habitat": "seagrass",
+            "predicted_number_of_fish_shoals": 6.57
+        },
+        {
+            "location": "bocas",
+            "date": "2003-12-28",
+            "predicted_site": "sms",
+            "predicted_habitat": "seagrass",
+            "predicted_number_of_fish_shoals": 6.57
+        },
+        {
+            "location": "rr",
+            "date": "2003-12-28",
+            "predicted_site": "sms",
+            "predicted_habitat": "seagrass",
+            "predicted_number_of_fish_shoals": 6.57
+        },
+        {
+            "location": "bocas",
+            "date": "2025-03-05",
+            "predicted_site": "stri",
+            "predicted_habitat": "dock",
+            "predicted_number_of_fish_shoals": 2.77
+        },
+        {
+            "location": "bocas",
+            "date": "2025-03-12",
+            "predicted_site": "stri",
+            "predicted_habitat": "dock",
+            "predicted_number_of_fish_shoals": 2.77
+        },
+        {
+            "location": "sms",
+            "date": "2025-04-01",
+            "predicted_site": "stri",
+            "predicted_habitat": "dock",
+            "predicted_number_of_fish_shoals": 2.77
+        },
+        {
+            "location": "sms",
+            "date": "2025-04-01",
+            "predicted_site": "stri",
+            "predicted_habitat": "dock",
+            "predicted_number_of_fish_shoals": 2.77
+        },
+        {
+            "location": "sms",
+            "date": "2025-04-01",
+            "predicted_site": "stri",
+            "predicted_habitat": "dock",
+            "predicted_number_of_fish_shoals": 2.77
+        },
+        {
+            "location": "sms",
+            "date": "2025-04-01",
+            "predicted_site": "stri",
+            "predicted_habitat": "dock",
+            "predicted_number_of_fish_shoals": 2.77
+        },
+        {
+            "location": "sms",
+            "date": "2025-04-01",
+            "predicted_site": "stri",
+            "predicted_habitat": "dock",
+            "predicted_number_of_fish_shoals": 2.77
+        },
+        {
+            "location": "sms",
+            "date": "2025-04-01",
+            "predicted_site": "stri",
+            "predicted_habitat": "dock",
+            "predicted_number_of_fish_shoals": 2.77
+        },
+        {
+            "location": "sms",
+            "date": "2025-04-01",
+            "predicted_site": "stri",
+            "predicted_habitat": "dock",
+            "predicted_number_of_fish_shoals": 2.77
+        },
+        {
+            "location": "sms",
+            "date": "2025-04-01",
+            "predicted_site": "stri",
+            "predicted_habitat": "dock",
+            "predicted_number_of_fish_shoals": 2.77
+        },
+        {
+            "location": "sms",
+            "date": "2025-04-01",
+            "predicted_site": "stri",
+            "predicted_habitat": "dock",
+            "predicted_number_of_fish_shoals": 2.77
+        },
+        {
+            "location": "sms",
+            "date": "2025-04-01",
+            "predicted_site": "stri",
+            "predicted_habitat": "dock",
+            "predicted_number_of_fish_shoals": 2.77
+        },
+        {
+            "location": "sms",
+            "date": "2025-04-01",
+            "predicted_site": "stri",
+            "predicted_habitat": "dock",
+            "predicted_number_of_fish_shoals": 2.77
+        },
+        {
+            "location": "bocas",
+            "date": "2024-12-23",
+            "predicted_site": "sms",
+            "predicted_habitat": "seagrass",
+            "predicted_number_of_fish_shoals": 6.57
+        },
+        {
+            "location": "bocas",
+            "date": "2025-04-02",
+            "predicted_site": "stri",
+            "predicted_habitat": "dock",
+            "predicted_number_of_fish_shoals": 2.77
+        },
+        {
+            "location": "sms",
+            "date": "2025-04-01",
+            "predicted_site": "stri",
+            "predicted_habitat": "dock",
+            "predicted_number_of_fish_shoals": 2.77
+        },
+        {
+            "location": "sms",
+            "date": "2015-09-29",
+            "predicted_site": "jack island",
+            "predicted_habitat": "dock",
+            "predicted_number_of_fish_shoals": 3.78
+        },
+        {
+            "location": "bocas",
+            "date": "2025-04-01",
+            "predicted_site": "stri",
+            "predicted_habitat": "dock",
+            "predicted_number_of_fish_shoals": 2.77
+        },
+        {
+            "location": "bocas",
+            "date": "2025-04-01",
+            "input_site": "almirante",
+            "predicted_habitat": "dock",
+            "predicted_number_of_fish_shoals": 2.77
+        },
+        {
+            "location": "bocas",
+            "date": "2016-01-27",
+            "input_site": "almirante",
+            "predicted_habitat": "reef",
+            "predicted_number_of_fish_shoals": 2.67
+        },
+        {
+            "location": "bocas",
+            "date": "2016-01-27",
+            "input_site": "almirante",
+            "predicted_habitat": "reef",
+            "predicted_number_of_fish_shoals": 2.67
+        },
+        {
+            "location": "bocas",
+            "date": "2016-01-27",
+            "input_site": "almirante",
+            "predicted_habitat": "reef",
+            "predicted_number_of_fish_shoals": 2.67
+        },
+        {
+            "location": "bocas",
+            "date": "2025-04-01",
+            "input_site": "almirante",
+            "predicted_habitat": "dock",
+            "predicted_number_of_fish_shoals": 2.77
+        },
+        {
+            "location": "rr",
+            "date": "2016-01-02",
+            "input_site": "inner rhode river",
+            "predicted_habitat": "dock",
+            "predicted_number_of_fish_shoals": 2.67
+        },
+        {
+            "location": "rr",
+            "date": "2015-09-01",
+            "input_site": "mouth mud",
+            "predicted_habitat": "soft",
+            "predicted_number_of_fish_shoals": 6.22
+        },
+        {
+            "location": "rr",
+            "date": "2015-08-15",
+            "input_site": "outer rhode river",
+            "predicted_habitat": "dock",
+            "predicted_number_of_fish_shoals": 4.09
+        },
+        {
+            "location": "rr",
+            "date": "2015-08-15",
+            "input_site": "outer rhode river",
+            "predicted_habitat": "dock",
+            "predicted_number_of_fish_shoals": 4.09
+        },
+        {
+            "location": "rr",
+            "date": "2015-08-15",
+            "input_site": "outer rhode river",
+            "predicted_habitat": "dock",
+            "predicted_number_of_fish_shoals": 4.09
+        },
+        {
+            "location": "rr",
+            "date": "2015-08-15",
+            "input_site": "inner rhode river",
+            "predicted_habitat": "dock",
+            "predicted_number_of_fish_shoals": 4.09
+        },
+        {
+            "location": "rr",
+            "date": "2015-08-13",
+            "input_site": "inner rhode river",
+            "predicted_habitat": "dock",
+            "predicted_number_of_fish_shoals": 4.09
+        },
+        {
+            "location": "rr",
+            "date": "2015-08-20",
+            "input_site": "inner rhode river",
+            "predicted_habitat": "woody debris",
+            "predicted_number_of_fish_shoals": 9.67
+        },
+        {
+            "location": "rb",
+            "date": "2015-11-18",
+            "input_site": "seagrass_3",
+            "predicted_habitat": "seagrass",
+            "predicted_number_of_fish_shoals": 6.22
+        },
+        {
+            "location": "rb",
+            "date": "2015-12-25",
+            "input_site": "seagrass_3",
+            "predicted_habitat": "seagrass",
+            "predicted_number_of_fish_shoals": 6.22
+        },
+        {
+            "location": "sms",
+            "date": "2016-12-01",
+            "input_site": "jack island",
+            "predicted_habitat": "seagrass",
+            "predicted_number_of_fish_shoals": 6.57
+        },
+        {
+            "location": "sms",
+            "date": "2015-08-20",
+            "input_site": "jack island",
+            "predicted_habitat": "oyster reef",
+            "predicted_number_of_fish_shoals": 3.78
+        },
+        {
+            "location": "sms",
+            "date": "2016-12-01",
+            "input_site": "jack island",
+            "predicted_habitat": "seagrass",
+            "predicted_number_of_fish_shoals": 6.57
+        },
+        {
+            "location": "sms",
+            "date": "2016-12-01",
+            "input_site": "jack island",
+            "predicted_habitat": "seagrass",
+            "predicted_number_of_fish_shoals": 6.57
+        },
+        {
+            "location": "rb",
+            "date": "2016-12-01",
+            "input_site": "rock_1",
+            "predicted_habitat": "rock",
+            "predicted_number_of_fish_shoals": 6.22
+        },
+        {
+            "location": "rb",
+            "date": "2016-12-01",
+            "input_site": "rock_1",
+            "predicted_habitat": "rock",
+            "predicted_number_of_fish_shoals": 6.22
+        },
+        {
+            "location": "rb",
+            "date": "2016-12-01",
+            "input_site": "rock_1",
+            "predicted_habitat": "rock",
+            "predicted_number_of_fish_shoals": 6.22
+        },
+        {
+            "location": "rb",
+            "date": "2016-12-01",
+            "input_site": "rock_1",
+            "predicted_habitat": "rock",
+            "predicted_number_of_fish_shoals": 6.22
+        },
+        {
+            "location": "rb",
+            "date": "2016-12-01",
+            "input_site": "rock_1",
+            "predicted_habitat": "rock",
+            "predicted_number_of_fish_shoals": 6.22
+        },
+        {
+            "location": "rb",
+            "date": "2016-12-01",
+            "input_site": "rock_1",
+            "predicted_habitat": "rock",
+            "predicted_number_of_fish_shoals": 6.22
+        },
+        {
+            "location": "rb",
+            "date": "2016-12-01",
+            "input_site": "rock_1",
+            "predicted_habitat": "rock",
+            "predicted_number_of_fish_shoals": 6.22
+        },
+        {
+            "location": "rb",
+            "date": "2016-12-01",
+            "input_site": "rock_1",
+            "predicted_habitat": "rock",
+            "predicted_number_of_fish_shoals": 6.22
+        },
+        {
+            "location": "rb",
+            "date": "2016-12-01",
+            "input_site": "rock_1",
+            "predicted_habitat": "rock",
+            "predicted_number_of_fish_shoals": 6.22
+        },
+        {
+            "location": "rb",
+            "date": "2016-12-01",
+            "input_site": "rock_1",
+            "predicted_habitat": "rock",
+            "predicted_number_of_fish_shoals": 6.22
+        },
+        {
+            "location": "rb",
+            "date": "2016-12-01",
+            "input_site": "rock_1",
+            "predicted_habitat": "rock",
+            "predicted_number_of_fish_shoals": 6.22
+        },
+        {
+            "location": "rb",
+            "date": "2016-12-01",
+            "input_site": "rock_1",
+            "predicted_habitat": "rock",
+            "predicted_number_of_fish_shoals": 6.22
+        },
+        {
+            "location": "rb",
+            "date": "2016-12-01",
+            "input_site": "rock_1",
+            "predicted_habitat": "rock",
+            "predicted_number_of_fish_shoals": 6.22
+        },
+        {
+            "location": "rb",
+            "date": "2016-12-01",
+            "input_site": "rock_1",
+            "predicted_habitat": "rock",
+            "predicted_number_of_fish_shoals": 6.22
+        },
+        {
+            "location": "rb",
+            "date": "2016-12-01",
+            "input_site": "rock_1",
+            "predicted_habitat": "rock",
+            "predicted_number_of_fish_shoals": 6.22
+        },
+        {
+            "location": "rb",
+            "date": "2016-12-01",
+            "input_site": "rock_1",
+            "predicted_habitat": "rock",
+            "predicted_number_of_fish_shoals": 6.22
+        },
+        {
+            "location": "rb",
+            "date": "2016-12-01",
+            "input_site": "rock_1",
+            "predicted_habitat": "rock",
+            "predicted_number_of_fish_shoals": 6.22
+        },
+        {
+            "location": "rb",
+            "date": "2016-12-01",
+            "input_site": "rock_1",
+            "predicted_habitat": "rock",
+            "predicted_number_of_fish_shoals": 6.22
+        },
+        {
+            "location": "rb",
+            "date": "2016-12-01",
+            "input_site": "rock_1",
+            "predicted_habitat": "rock",
+            "predicted_number_of_fish_shoals": 6.22
+        },
+        {
+            "location": "rb",
+            "date": "2016-12-01",
+            "input_site": "rock_1",
+            "predicted_habitat": "rock",
+            "predicted_number_of_fish_shoals": 6.22
+        },
+        {
+            "location": "rb",
+            "date": "2016-12-01",
+            "input_site": "rock_1",
+            "predicted_habitat": "rock",
+            "predicted_number_of_fish_shoals": 6.22
+        },
+        {
+            "location": "rb",
+            "date": "2016-12-01",
+            "input_site": "rock_1",
+            "predicted_habitat": "rock",
+            "predicted_number_of_fish_shoals": 6.22
+        },
+        {
+            "location": "rb",
+            "date": "2016-12-01",
+            "input_site": "rock_1",
+            "predicted_habitat": "rock",
+            "predicted_number_of_fish_shoals": 6.22
+        },
+        {
+            "location": "rb",
+            "date": "2016-12-01",
+            "input_site": "rock_1",
+            "predicted_habitat": "rock",
+            "predicted_number_of_fish_shoals": 6.22
+        },
+        {
+            "location": "rb",
+            "date": "2016-12-01",
+            "input_site": "rock_1",
+            "predicted_habitat": "rock",
+            "predicted_number_of_fish_shoals": 6.22
+        },
+        {
+            "location": "rb",
+            "date": "2016-12-01",
+            "input_site": "rock_1",
+            "predicted_habitat": "rock",
+            "predicted_number_of_fish_shoals": 6.22
+        },
+        {
+            "location": "rb",
+            "date": "2016-12-01",
+            "input_site": "rock_1",
+            "predicted_habitat": "rock",
+            "predicted_number_of_fish_shoals": 6.22
+        },
+        {
+            "location": "rb",
+            "date": "2016-12-01",
+            "input_site": "rock_1",
+            "predicted_habitat": "rock",
+            "predicted_number_of_fish_shoals": 6.22
+        },
+        {
+            "location": "rb",
+            "date": "2016-12-01",
+            "input_site": "rock_1",
+            "predicted_habitat": "rock",
+            "predicted_number_of_fish_shoals": 6.22
+        },
+        {
+            "location": "rb",
+            "date": "2016-12-01",
+            "input_site": "rock_1",
+            "predicted_habitat": "rock",
+            "predicted_number_of_fish_shoals": 6.22
+        },
+        {
+            "location": "rb",
+            "date": "2016-12-01",
+            "input_site": "rock_1",
+            "predicted_habitat": "rock",
+            "predicted_number_of_fish_shoals": 6.22
+        },
+        {
+            "location": "rb",
+            "date": "2016-12-01",
+            "input_site": "rock_1",
+            "predicted_habitat": "rock",
+            "predicted_number_of_fish_shoals": 6.22
+        },
+        {
+            "location": "rb",
+            "date": "2016-12-01",
+            "input_site": "rock_1",
+            "predicted_habitat": "rock",
+            "predicted_number_of_fish_shoals": 6.22
+        },
+        {
+            "location": "bocas",
+            "date": "2016-12-01",
+            "input_site": "almirante",
+            "predicted_habitat": "seagrass",
+            "predicted_number_of_fish_shoals": 6.57
+        },
+        {
+            "location": "bocas",
+            "date": "2015-07-30",
+            "input_site": "stri",
+            "predicted_habitat": "dock",
+            "predicted_number_of_fish_shoals": 2.41
+        },
+        {
+            "location": "bocas",
+            "date": "2015-02-28",
+            "input_site": "stri",
+            "predicted_habitat": "dock",
+            "predicted_number_of_fish_shoals": 2.77
+        },
+        {
+            "location": "bocas",
+            "date": "2015-02-28",
+            "input_site": "stri",
+            "predicted_habitat": "dock",
+            "predicted_number_of_fish_shoals": 2.77
+        },
+        {
+            "location": "bocas",
+            "date": "2016-12-01",
+            "input_site": "almirante",
+            "predicted_habitat": "seagrass",
+            "predicted_number_of_fish_shoals": 6.57
+        },
+        {
+            "location": "bocas",
+            "date": "2016-02-01",
+            "input_site": "stri",
+            "predicted_habitat": "dock",
+            "predicted_number_of_fish_shoals": 2.77
+        },
+        {
+            "location": "bocas",
+            "date": "2016-02-02",
+            "input_site": "stri",
+            "predicted_habitat": "dock",
+            "predicted_number_of_fish_shoals": 2.77
+        },
+        {
+            "location": "bocas",
+            "date": "2016-12-01",
+            "input_site": "stri",
+            "predicted_habitat": "seagrass",
+            "predicted_number_of_fish_shoals": 6.57
+        },
+        {
+            "location": "bocas",
+            "date": "2016-12-01",
+            "input_site": "almirante",
+            "predicted_habitat": "seagrass",
+            "predicted_number_of_fish_shoals": 6.57
+        },
+        {
+            "location": "bocas",
+            "date": "2016-12-02",
+            "input_site": "almirante",
+            "predicted_habitat": "seagrass",
+            "predicted_number_of_fish_shoals": 6.57
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+prefix=/Users/arnavlahane/Downloads/Fish Shole project/c492/c492/backend/venv
+exec_prefix=/Users/arnavlahane/Downloads/Fish Shole project/c492/c492/backend/venv
+libdir=/Users/arnavlahane/Downloads/Fish Shole project/c492/c492/backend/venv/lib
+sharedlibdir=/Users/arnavlahane/Downloads/Fish Shole project/c492/c492/backend/venv/lib
+includedir=/Users/arnavlahane/Downloads/Fish Shole project/c492/c492/backend/venv/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
