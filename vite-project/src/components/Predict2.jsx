@@ -7,6 +7,31 @@ import UserGone from "./UserGone";
 //month/date/year
 
 const dataset = {
+    "pedasi azuer": {
+        location: "pedasi",
+        site: "azuero",
+        date: "3/6/2025"
+    },
+    "david chiriqui": {
+        location: "david",
+        site: "chiriqui",
+        date: "3/6/2025"
+    },
+    "panama colon coral": {
+        location: "panama",
+        site: "coral",
+        date: "2/6/2025"
+    },
+    "pedasi azuero": {
+        location: "pedasi",
+        site: "azuero",
+        date: "3/31/2025"
+    },
+    "puerto armuelle":{
+        location: "puerto ",
+        site: "armuelles",
+        date: "3/31/2025"
+    },
     "bocas del toro_almirante": {
         location: "bocas",
         site: "almirante",
@@ -284,7 +309,6 @@ const Predict2 = () => {
                         value={date}
                         onChange={(e) => setDate(e.target.value)}
                         required
-                        max="2016-12-31"
                         className="w-full px-4 py-3 border border-gray-400 rounded-lg bg-white/30 text-white placeholder-gray-300 focus:outline-none focus:ring-2 focus:ring-blue-300 transition duration-200"
                     />
 

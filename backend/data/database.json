@@ -662,6 +662,48 @@
             "input_site": "almirante",
             "predicted_habitat": "seagrass",
             "predicted_number_of_fish_shoals": 6.57
+        },
+        {
+            "location": "bocas",
+            "date": "2016-12-01",
+            "input_site": "almirante",
+            "predicted_habitat": "seagrass",
+            "predicted_number_of_fish_shoals": 6.57
+        },
+        {
+            "location": "bocas",
+            "date": "2016-12-21",
+            "input_site": "almirante",
+            "predicted_habitat": "seagrass",
+            "predicted_number_of_fish_shoals": 6.57
+        },
+        {
+            "location": "bocas",
+            "date": "2016-12-21",
+            "input_site": "almirante",
+            "predicted_habitat": "seagrass",
+            "predicted_number_of_fish_shoals": 6.57
+        },
+        {
+            "location": "bocas",
+            "date": "2016-12-21",
+            "input_site": "almirante",
+            "predicted_habitat": "seagrass",
+            "predicted_number_of_fish_shoals": 6.57
+        },
+        {
+            "location": "bocas",
+            "date": "2016-12-27",
+            "input_site": "almirante",
+            "predicted_habitat": "seagrass",
+            "predicted_number_of_fish_shoals": 6.57
+        },
+        {
+            "location": "pedasi",
+            "date": "2025-03-06",
+            "input_site": "azuero",
+            "predicted_habitat": "rocky_shore",
+            "predicted_number_of_fish_shoals": 4.92
         }
     ]
 }
